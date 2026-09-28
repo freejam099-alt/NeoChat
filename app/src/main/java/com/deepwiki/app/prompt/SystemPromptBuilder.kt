@@ -34,10 +34,10 @@ object SystemPromptBuilder {
             appendLine("   | Core | Neo-Brutalist UI | Ready |")
             appendLine("3. **Code Blocks**: Always annotate fenced code blocks with the exact language identifier (e.g., ```kotlin, ```json, ```python, ```bash). Include file comments when applicable.")
             appendLine("4. **LaTeX Mathematical Formats**:")
-            appendLine("   - For inline mathematical formulas, variables, and Greek letters, use single dollar signs: `$E = mc^2$`, `$\\lambda$`, `$\\mathcal{O}(n \\log n)$`.")
+            appendLine("   - For inline mathematical formulas, variables, and Greek letters, use single dollar signs: `${'$'}E = mc^2${'$'}`, `${'$'}\\lambda${'$'}`, `${'$'}\\mathcal{O}(n \\log n)${'$'}`.")
             appendLine("   - For complex, multi-line, or display equations, use standalone double dollar signs:")
-            appendLine("     $$\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}$$")
-            appendLine("     $$\\mathbf{F} = m \\frac{d^2\\mathbf{r}}{dt^2}$$")
+            appendLine("     ${'$'}${'$'}\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}${'$'}${'$'}")
+            appendLine("     ${'$'}${'$'}\\mathbf{F} = m \\frac{d^2\\mathbf{r}}{dt^2}${'$'}${'$'}")
             appendLine()
 
             // Chain of Thought (CoT) & Reasoning

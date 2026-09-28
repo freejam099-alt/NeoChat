@@ -55,7 +55,7 @@ Selamat datang di **DeepWiki** — Chatbot AI berarsitektur *Neo-Brutalism* deng
 4. **Thinking Effort Control**: Atur kekuatan komputasi penalaran AI langsung di sudut kiri bawah bar input chat (OFF, LOW, MED, HIGH).
 5. **Fetch Model Langsung**: Tarik daftar model AI terkini dari server penyedia dengan tombol Fetch Model.
 6. **LaTeX Mathematical Engine**: Mendukung formula inline seperti ${'$'}E = mc^2${'$'} serta display block:
-$$\oint_{\partial \Omega} \mathbf{E} \cdot d\mathbf{l} = -\frac{\partial}{\partial t}\iint_{\Omega} \mathbf{B} \cdot d\mathbf{S}$$
+${'$'}${'$'}\oint_{\partial \Omega} \mathbf{E} \cdot d\mathbf{l} = -\frac{\partial}{\partial t}\iint_{\Omega} \mathbf{B} \cdot d\mathbf{S}${'$'}${'$'}
 
 Pilih provider di **Tab Bar** di atas atau mulai ketik instruksi Anda di bawah.
             """.trimIndent(),
