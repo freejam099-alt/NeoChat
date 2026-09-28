@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neo_bg">#FFFDF8</color>
+    <color name="neo_dark">#121212</color>
+    <color name="neo_yellow">#FFE600</color>
+    <color name="neo_cyan">#00F0FF</color>
+    <color name="neo_coral">#FF5376</color>
+    <color name="neo_green">#00E599</color>
+    <color name="neo_purple">#A78BFA</color>
+</resources>
